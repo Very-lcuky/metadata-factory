@@ -1,0 +1,27 @@
+{
+  "name": "CoinFactory.info",
+  "symbol": "VLKY",
+  "description": "NFT que representa toda la web CoinFactory.info. Todos los royalties son 100% para el creador Very Lucky.",
+  "seller_fee_basis_points": 10000,
+  "external_url": "https://coinfactory.info",
+  "image": "https://coinfactory.info/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://coinfactory.info/",
+        "type": "text/html"
+      }
+    ],
+    "category": "website",
+    "creators": [
+      {
+        "address": "GTytbDYh2aDvDP1qMnr4MSrtgQ2zsTPSY9U2Sa9UBiwo",
+        "share": 100
+      }
+    ],
+    "associated_token": {
+      "token_address": "86LchfRo1yffrdPaKnZvQngoz1GEc84e4Ucomjban3A2",
+      "description": "Token VLKY vinculado al NFT, actualmente en pool"
+    }
+  }
+}
