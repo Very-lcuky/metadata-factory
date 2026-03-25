@@ -4,7 +4,7 @@
   "description": "NFT que representa toda la web CoinFactory.info. Todos los royalties son 100% para el creador Very Lucky.",
   "seller_fee_basis_points": 10000,
   "external_url": "https://coinfactory.info",
-  "image": "https://coinfactory.info/",
+  "image": "https://raw.githubusercontent.com/Very-lcuky/metadata-factory/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg",
   "properties": {
     "files": [
       {
